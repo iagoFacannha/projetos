@@ -1,2 +1,2 @@
 # projetos
-Projetos das aulas programação full Stack
+Projetos em python
